@@ -13,7 +13,7 @@
   "dependencies": {
     "async": "^1.4.2",
     "console-stamp": "^0.2.0",
-    "debug": "^2.2.0",
+    "debug": "^3.1.0",
     "delegates": "^0.1.0",
     "drachtio": ">=1.0.0",
     "drachtio-srf": ">=1.0.0",
