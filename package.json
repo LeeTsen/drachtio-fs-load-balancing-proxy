@@ -18,7 +18,7 @@
     "drachtio": ">=1.0.0",
     "drachtio-srf": ">=1.0.0",
     "iptables": "0.0.4",
-    "lodash": "^3.10.1",
+    "lodash": "^4.17.17",
     "modesl": "davehorton/node-esl.git",
     "node-noop": "0.0.1",
     "range_check": "0.0.5",
